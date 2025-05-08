@@ -1,4 +1,4 @@
-# Source-free Calibrated Uncertainty for RUL Adaptation with Incomplete Degradation
+# Source-free Calibrated Uncertainty for RUL Adaptation with Incomplete Degradation [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327025004194)]
 #### *by: Yubo Hou, Yucheng Wang, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Zhenghua Chen*
 #### Mechanical Systems and Signal Processing (MSSP-25).
 
@@ -27,4 +27,16 @@ To train model for domain adaptation:
 
 ```
 python main_cross_domains.py --da_method CURA --dataset [dataset]    
+```
+
+## Citation
+If you found this work useful for you, please consider citing it.
+```
+@article{HOU2025112718,
+title = {Source-free Calibrated Uncertainty for RUL Adaptation with incomplete degradation},
+journal = {Mechanical Systems and Signal Processing},
+volume = {233},
+pages = {112718},
+year = {2025},
+}
 ```
