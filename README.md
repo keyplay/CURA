@@ -17,6 +17,9 @@ Extensive experiments on the C-MAPSS and N-CMAPSS datasets demonstrate that CURA
 - Sklearn
 - Pandas
 
+## Processed dataset
+Processed dataset can be accessed via [link](https://drive.google.com/drive/folders/1K93Ro9OsYUh-YhNBYUQxGZ8PZlV-b2bv?usp=sharing)
+
 ## Train the model
 To pre train model:
 
