@@ -2,7 +2,7 @@
 #### *by: Yubo Hou, Yucheng Wang, Min Wu, Chee-Keong Kwoh, Xiaoli Li, Zhenghua Chen*
 #### Mechanical Systems and Signal Processing (MSSP-25).
 
-This is a PyTorch implementation of this domain adaptation method for remaining useful Life prediction on time series data.
+This is a PyTorch implementation of this domain adaptation method for remaining useful life prediction on time series data.
 
 ## Abstract
 <img src="CURA.png" width="1000">
