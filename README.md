@@ -41,5 +41,7 @@ journal = {Mechanical Systems and Signal Processing},
 volume = {233},
 pages = {112718},
 year = {2025},
+issn = {0888-3270},
+author = {Yubo Hou and Yucheng Wang and Min Wu and Chee-Keong Kwoh and Xiaoli Li and Zhenghua Chen},
 }
 ```
